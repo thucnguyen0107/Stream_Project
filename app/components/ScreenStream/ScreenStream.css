@@ -1,0 +1,23 @@
+.container{
+    position: relative;;
+}
+
+.blue_team{
+    float: left;
+}
+
+.red_team{
+    float: right;
+}
+
+.middle{
+    position: absolute;
+    left: 30%;
+    width: 40%;
+}
+
+.control_btn_group{
+    text-align: center;
+    margin-top: 10px;
+}
+
