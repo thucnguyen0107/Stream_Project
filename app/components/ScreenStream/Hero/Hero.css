@@ -1,18 +1,34 @@
 .container{
-    height: 100px;
-    width: 300px;
-    background-color: #232323;
+    height: 120px;
+    /* width: 350px; */
+    background-color: transparent;
     margin: 10px 0 10px 0;
+    position: relative;
+}
+
+.hero{
+    position: absolute;
+    
+}
+
+.right{
+    right: 0;
+}
+
+.left{
+    left: 0;
 }
 
 .hero_image{
-    height: 80px;
+    height: 100px;
     background-image: url(../../../src/image/images.jpg);
-    width: 300px;
+    width: 350px;
     background-position: center;
 }
 
 .hero_name{
     float: right;
     font-weight: bold;
+    background-color: #232323;
+    width: 350px;
 }

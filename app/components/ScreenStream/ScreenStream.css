@@ -21,3 +21,20 @@
     margin-top: 10px;
 }
 
+.next_and_switch{
+    margin-top: 20%;
+}
+
+.first_ban{
+    margin: 5px;
+    display: flex;
+}
+
+.second_ban{
+    margin: 5px;
+    display: flex;
+}
+
+.ban_group{
+    display: flex;
+}
